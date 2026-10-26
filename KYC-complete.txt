@@ -1,0 +1,39 @@
+KYC Verification Approved | TradeREA
+
+KYC Verification Approved!
+--------------------------
+Congratulations {{ contact.FIRSTNAME }}! Your identity verification has been successfully completed.
+
+Your account is now fully verified
+----------------------------------
+You now have full access to all TradeREA features including trading real estate assets, making deposits, and withdrawals.
+
+Go to Dashboard:
+https://traderea.com/dashboard
+
+Earn 5 TRU tokens
+-----------------
+As a thank you for completing your identity verification, you have earned 5 TRU tokens!
+
+How to receive your tokens:
+1. Go to Settings (https://traderea.com/settings) and connect your crypto wallet
+2. Once connected, your 5 TRU tokens will automatically transfer
+3. Use TRU tokens to unlock reduced trading fees and exclusive benefits
+
+What's next?
+------------
+- Browse available real estate assets
+- Make your first investment
+- Track your portfolio performance
+
+TRU token rewards are promotional utility incentives subject to eligibility, successful wallet connection, and program terms. This is not an offer to sell securities.
+
+---
+You are receiving this email because your TradeREA KYC verification was approved.
+
+Unsubscribe: {{ unsubscribe }}
+
+TradeREA.com | support@traderea.com
+LinkedIn: https://www.linkedin.com/company/traderea/posts/
+X: https://x.com/traderea_
+YouTube: https://www.youtube.com/@TradeREAX

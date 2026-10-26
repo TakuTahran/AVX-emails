@@ -1,0 +1,28 @@
+Welcome to TradeREA
+
+Hello {{ contact.FIRSTNAME }},
+
+Liquidity for real estate assets. Your account is ready — finish onboarding to explore regulated, institutional-grade opportunities.
+
+Get started in a few minutes
+----------------------------
+1. Complete profile — Confirm your details and preferences.
+2. Verify identity — KYC keeps the platform secure and compliant.
+3. Explore offerings — Access tokenized real estate opportunities.
+
+Complete KYC:
+https://traderea.com/login
+
+Or explore TradeREA.com: https://traderea.com/
+
+Questions? Email support@traderea.com
+
+---
+You are receiving this email because you created a TradeREA account.
+
+Unsubscribe: {{ unsubscribe }}
+
+TradeREA.com | support@traderea.com
+LinkedIn: https://www.linkedin.com/company/traderea/posts/
+X: https://x.com/traderea_
+YouTube: https://www.youtube.com/@TradeREAX
